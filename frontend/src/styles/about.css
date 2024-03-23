@@ -1,0 +1,41 @@
+
+.container-team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 50px 0; 
+  }
+
+
+@media (max-width: 768px) {
+    .hero__content,
+    .hero__img-box {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+  }
+  
+
+  .social__links {
+    margin-top: 20px;
+  }
+  
+
+  @media (max-width: 768px) {
+    .social__links {
+      justify-content: center;
+    }
+  }
+  
+  .team-member {
+    margin-bottom: 50px;
+  }
+  
+
+  @media (max-width: 768px) {
+    .team-member {
+      text-align: center;
+    }
+  }
+  

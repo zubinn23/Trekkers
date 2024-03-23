@@ -1,0 +1,353 @@
+[
+  {
+    "title": "Everest Three Passes Trek",
+    "district": "Solukhumbu",
+    "distance": 6,
+    "price": 120,
+    "Difficulty": "challenging",
+    "maxGroupSize": 10,
+    "desc": "The Three Passes Trek takes you over three 5,000m+ passes and is the best way to truly experience the Everest Region for those who have the time to spend 3 weeks on the trail. The trek includes sections of the Everest Base Camp Trek, but offers even more spectacular views of the giants in the heart of the Himalaya as you cross the Renjo La, Cho La and Kongma La passes. The Three Passes trek can be combined with other variations of the Everest Base Camp Trek. Getting to the trailhead: a 30-minute flight from Kathmandu to Lukla.",
+    "reviews": [],
+    "photo": "/trek-images/trek-img01.jpg",
+    "featured": true,
+    "itinerary": [
+        "Day 1: Arriving In Kathmandu",
+        "- Kathmandu Elevation- (1,400m / 4,593ft)",
+        "- Airport to Thamel Driving Time- 20/30 minutes",
+        "- Accommodation- Hotels",
+        "Day 2: Fly Kathmandu-Lukla and Trek-Phakding",
+        "- Lukla Elevation-(2,850m / 9,350ft)",
+        "- Phakding Elevation- (2650m / 8562ft)",
+        "- Flight Hours- 40 Minutes",
+        "- Trek Distance- 6.2km / 3.8miles",
+        "- Trekking Hours- hours",
+        "- Accommodation- Tea Houses",
+        "Day 3: Trek Phakding-Monjo and Namche Bazaar",
+        "- Monjo Elevation- (2,835 m/9,301 ft)",
+        "- Namche Bazaar- (3,440m / 11,285ft)",
+        "- Trek Distance- 7.4km / 4.6miles",
+        "- Trek Hours- 6 hrs",
+        "- Accommodation- Tea Houses",
+        "Day 4: Acclimatization Day",
+        "Day 5: Trek Namche Bazaar - Tengboche",
+        "- Tengboche Elevation- 3,870m/12,697ft",
+        "- Trek Hours- 5/6 hrs",
+        "- Accommodation- Tea Houses",
+        "Day 6: Trek Tengboche-Dingboche",
+        "- Dingboche Elevation- 4,360m/14,305ft",
+        "- Trek Hours- 5/6 hrs",
+        "- Accommodation- Tea Houses",
+        "Day 7: Trek Dingboche- Chukung",
+        "- Chukung Elevation- 4,730 m/15,518 ft",
+        "- Trek Hours- 4 hrs",
+        "- Accommodation- Tea Houses",
+        "Day 8: Trek Chhukung to Kongmo la pass - Lobuche",
+        "- Kongmo la pass Elevation- 5,550 m/ 8,209 ft",
+        "- Lobuche Elevation- 4,940 m (16,210 ft)",
+        "- Trek Hours- 7-8 hrs",
+        "- Accommodation- Tea Houses",
+        "Day 9: Trek Lobuche - Gorakhshep",
+        "- Gorakhshep Elevation- (5,164 m/16,942 ft)",
+        "- Trek Hours- 7-8 hrs",
+        "- Accommodation- Tea Houses",
+        "Day 10: Trek Gorekhshep-Kalapathar-Dzongla",
+        "- Kalapathar Elevation- (5,644.5 m/18,519 ft)",
+        "- Dzongla Elevation- (15,846 ft / 4,830 m)",
+        "- Trek Hours- 7-8 hrs",
+        "- Accommodation- Tea Houses",
+        "Day 11: Trek Zongla-Chola pass and to Thagnak",
+        "- Cho la pass Elevation- (5,420m/ 17,782 ft)",
+        "- Thagnak Elevation-4700 m/ 15419 ft",
+        "- Trek Hours- 3/5 hrs",
+        "- Accommodation- Tea Houses",
+        "Day 12: Trek Thagnak to Gokyo",
+        "- Gokyo Elevation- (4,750 m/ 15,583 ft)",
+        "- Trek Hours- 3/5 hrs",
+        "- Accommodation- Tea Houses"
+    ]
+},
+  {
+    "title": "Manaslu Circuit Trek",
+    
+    "distance": 5,
+    "price": 110,
+    "district":"Gorkha",
+    "Difficulty": "challenging",
+    "maxGroupSize": 8,
+    "desc": "The Manaslu Circuit Trek has become more accessible since new lodges were built in 2010. The trek has all the great features you’d expect from a classic Himalayan trek—deep lush valleys at lower elevations, amazing views of 8,000m peaks, and a 5,000m+ pass crossing—all the while remaining largely unspoiled by visitors.Despite its rising popularity and recent road construction, the Manaslu Circuit still feels very remote, and has fewer trekkers than the more established classic treks of Nepal.Getting to the trailhead: an 8-hour drive from Kathmandu.",
+    "reviews": [],
+    "itinerary":[
+      "Day 1:",
+"Arrive in Kathmandu",
+
+"Day 2:",
+"Manaslu Restricted area preparation and briefing of Trek",
+
+"Day 3:",
+"Drive to Soti Khola than to Machha Khola (869m)",
+
+"Day 4:",
+"Machha Khola to Jagat (1410m)",
+
+"Day 5:",
+"Jagat to Deng (1860m)",
+
+"Day 6:",
+"Deng to Namrung (2630m)",
+
+"Day 7:",
+"Namrung to Lho Gham (3180m)",
+
+"Day 8:" ,
+"Lho Gham to Samagaon (3520m)",
+
+"Day 9:",
+"Samagaon (rest day) Trek to Manaslu Base Camp or Pungyen Gompa and Birendra Tal.",
+
+"Day 10:",
+"Samagaon to Samdo (3875m)",
+
+"Day 11:",
+"Samdo to Larkya Phedi (4460m)",
+
+"Day 12:",
+"Larkya Phedi to Bimthang (3590m) – climb the Larkya La (5160m)",
+
+"Day 13:",
+"Bimthang to Dharapani (1963 Meters)",
+
+"Day 14:",
+"Sharing Jeep drive to Beshisahar and Public Bus back to the capital",
+
+"Day 15:",
+"Depart Kathmandu"
+    ],
+
+    "photo": "/trek-images/trek-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Langtang Trek",
+    "distance": 4,
+    "price": 89,
+    "Difficulty": "moderate",
+    "district":"Rasuwa",
+    "maxGroupSize": 10,
+    "desc": "The Langtang trek is a trek with real heart. After having been devoid of travelers for a couple of years after the 2015 earthquake, the trails and guesthouses have been rebuilt, and trekkers are back.  The trek takes you through magnificent forests to the high alpine meadows and yak pastures around Kyangjin Gompa (a Buddhist monastery), with an optional day hike up to the top of Kyangjin Ri (peak). Getting to the trailhead: a 7-hour drive from Kathmandu",
+    "reviews": [],
+    "itinerary":[
+      "Day 1:",
+"Upon arrival in Kathmandu international airport, transfer to the hotelArrival in Kathmandu. Our Airport Representative will meet you at the Tribhuwan International Airport. A drop to the Hotel by private tourist vehicle is arranged. You can either take a rest or meet us at our office and know the detailed arrangement of the Trek.",
+
+"Day 2:",
+"Kathmandu to Shabrubeshi (1467m). 7h scenic drive. Overnight at Guest House",
+
+"Day 3:",
+"Shabrubeshi to Lama Hotel (2470m). Overnight at Guest House",
+
+"Day 4:",
+"Lama Hotel to Langtang valley(3430m). Overnight at Guest House",
+
+"Day 5:",
+"Langtang valley to Kyanjin Gompa (3870m). Overnight at Guest House",
+
+"Day 6:",
+"Explore around the Kyanjin Gompa. Morning climb to Tsergo Ri (4985m). Overnight at Guest House",
+
+"Day 7:",
+"Kyanjin Gompa to Ghodatabela(3030m). Overnight at lodge",
+
+"Day 8:",
+"Ghodatabela to Shabrubeshi. O/n at lodge",
+
+"Day 9:",
+"Syabrubeshi to Kathmandu (by bus.) O/n at standard hotel in Kathmandu.",
+
+"Day 10:",
+"Transfer to the Kathmandu international airport or onward for next program"
+    ],
+    "photo": "/trek-images/trek-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Annapurna Base Camp Trek",
+    "distance": 4,
+    "price": 99,
+    "Difficulty": "moderate",
+    "district":"Kaski",
+    "maxGroupSize": 8,
+    "desc": "The Annapurna Base Camp Trek takes you deep into the Annapurna Massif to the foot of Annapurna South. The scenery is quite different from most other classic treks because the views are less expansive and more vertical: you find yourself looking almost straight up to see the mountains towering above you. Getting to the trailhead: a 25-minute flight from Kathmandu to Pokhara, followed by a 2-hour drive; or an 8-hour drive from Kathmandu.",
+    "reviews": [],
+    "itinerary": [
+      "We'll drive from Pokhara to Naya Pul for about an hour. After reaching Brethanti, we'll continue along the Modi Khola's bank until we reach Ulleri, where we'll ascend. The route from Ulleri to Banthanti is a gradual ascent through rhododendron and oak forests. We will get to Ghorepani after a few hours from Banthanti. The following morning, we will hike to Poonhill early to see the mesmerizing sunrise before continuing our trek to Tadapani. At Tadapani, we will have breakfast before moving on to Chhomrong. The following day, we will leave Chhomrong and travel to Dovan. We will start the trek from Dovan to Deurali the following day. After a strenuous climb, we arrive at Machhapuchhre Base Camp from Deurali, where the trail winds through a riverbank. The mountain view becomes clear as you ascend from MBC.",
+      "Our destination is Annapurna Base Camp. After admiring a stunning sunrise from ABC, we return to Sinuwa by taking the same route through MBC, Deurali, Himalaya, and Bamboo. The path is relatively flat and is simple to walk. Stay the night in Sinuwa. We continue on from Sinuwa to Chomorong. We arrive at Jhinu after a 45-minute descent. Natural Hot Springs, where you can take a calming bath. The guesthouse is 30 minutes' steep walk from the spring. The leisurely walk continues for another five hours along the Modi Khola, passing through Birethanti and Nayapul. We return to Pokhara from Nayapul by car and spend the night there."
+      ],
+    "photo": "/trek-images/trek-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Upper Mustang Trek",
+    "distance": 4,
+    "price": 180,
+    "Difficulty": "challenging",
+    "district":"Mustang",
+    "maxGroupSize": 6,
+    "desc": "The arid valley of the Upper Mustang Trek features a distinct landscape compared to almost all other treks in Nepal. With its many shades of brown and crumbling sandstone cliffs, this region lies in the desert rain shadow of the Himalaya. Mustang used to be its own kingdom, and its strong Tibetan-influenced traditions make this a culturally very interesting trek. Getting to the trailhead: you'll need to take two connecting flights: Kathmandu to Pokhara (25 minutes), and Pokhara to Jomsom (20 minutes).",
+    "reviews": [],
+    "itinerary":[
+      "Your arrival will be on the first day, and a representative from Mountain Rock Treks will welcome you. The following day, we'll tour the Kathmandu Valley. The following day, after a 7-8 hour drive through picturesque countryside and well-known mountain ranges, we will arrive in Pokhara. We'll take an extremely early morning flight the following morning from Pokhara to Jomsom. We then proceed to walk to Eklai Bhatti to start our trek to Kagbeni after crossing the Kali Gandaki. The following day, we will spend 5–6 hours hiking to Chele. Then, for 6-7 hours, we will hike along the trail toward Syanboche. To reach the Yamda La pass, we will ascent through a few teahouses, Chortens, and nearby villages (3850m).",
+      "Then, we'll get to Ghyami. After a leisurely stroll, we cross the Ghaymi Khola and travel for about 4-5 hours to Charang. We will make a 5- to 6-hour hike to Lo-Magthang the following day. We will take advantage of this free day the next day to explore nearby Gombas and viewpoints. After that, we'll travel by early morning foot from Lo-Mangthang to Ghar Gompa. The following day, we will spend 5–6 hours on an early morning hike to Ghiling. We'll return to Chele. The following morning, we set out on foot for Kagbeni, where we pause for lunch. To get to Jomsom, we continue on and join the Annapurna Circuit TrekTrail. We'll catch an early flight back to Pokhara on the fifteenth day. In the lovely city of Pokhara, you can spend the day either exploring or participating in some activities. On the sixteenth day, we'll return to Kathmandu. When we get to Kathmandu, we either unwind in the hotel or wander around Thamel in search of mementos. Then we will have your farewell on our last day together."
+    ],
+
+    "photo": "/trek-images/trek-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Gokyo Lakes Trek",
+    "distance": 5,
+    "price": 89,
+    "Difficulty": "challenging",
+    "district":"Solukhumbu",
+    "maxGroupSize": 8,
+    "desc": "Like the Three Passes Trek, the Gokyo Lakes Trek shares significant sections with the classic Everest Base Camp Trek but takes you into a valley west of Everest. Its main attraction are the beautiful lakes at Gokyo, at around 5,000 meters. From there, trekkers can climb Gokyo Ri (5,357m /17,575 ft), a rocky peak with one of the best expansive views on Mt Everest.Getting to the trailhead: a 30-minute flight Kathmandu to Lukla.",
+    "reviews": [],
+    "itinerary":[
+      "Upon your arrival at Tribhuvan International Airport and fulfillment of all procedures, a member of our staff will greet you there and transport you to the hotel. Following breakfast, the next day,  we will take 30 minutes thrilling flight to Lukla from Kathmandu. We proceed from the Tenzing Hillary Airport to the crew's meeting place to make plans and final preparations. It takes about three hours to get from Chaurikharka village to Phakding, which has a brief ascent to aid in acclimatization. The beginning of the following day's walk is through pine trees and pasturelands with a number of suspension bridges to cross at different locations of the Dudh Koshi River.",
+      "We finally arrive at a viewpoint offering the first glimpse of Mount Everest after walking for almost two hours. We arrive at Namche Bazaar after passing through Jorsale. The following day is a rest day. The following morning, we set out on our trek early to ensure that we have a clear view of the peak. After descending, we pass Kayangjuma and arrive at the intersection of the EBC and  Gokyo valley. The sacred Khumbilai is charmingly present as we ascend to Mong La pass from here. We finally arrive in the tiny settlement of Dole after crossing a few bridges and waterfalls. The trail travels past Lhabarma and reaches Luza after ascending a ridge. The five-hour trek comes to an end at Machhermo, where we will spend the night. The trail ascends through a ridge from Machhermo to a Chorten. We arrive at a third lake, DudhPokhari, where the Gokyo settlement is located, by descending to the river bank. After such an exciting day, we will seek refuge in the lovely and well-equipped town with Cho-Oyo as a backdrop, as well as its magnificent surroundings. The following day, we leave early for Gokyo Ri (5360m). It takes four hours to make the difficult ascent to the peak. From the peak of Gokyo Ri, the fourth, fifth, and sixth lakes are visible. Then, early in the morning, we set out to walk to Renjola pass. We divert from the main Gokyo Valley trail to follow the Renjo la trail by DudhPokhari. In order to go to  AngladumbaTsho, the trail continues down the stairs. We come over RelamaTsho and Renjo Lake on another stroll. We arrive at Marlung, where we will spend the night, after an hour of walking. The following day, we go from Marlung to Thame using the conventional route. We reach  Langmuche Khola after crossing the Bhote Koshi and descending to Taranga. To go to Samde, we then cross the bridge. We arrive at Thamo village after descending the steep path. We then arrive in the community of Phurte. Then we move on to Namche. We leave Namche on the eleventh day and arrive in Lukla. Then we will take an early morning flight from Lukla to Kathmandu. The next day, after breakfast at the hotel, we depart on a sightseeing trip of the Kathmandu valley,  stopping at Pashupatinath, Swayambhunath, Buddha, and Kathmandu Durbar Square. Then the 14th day is our last day, you will take flight back to home."
+    ],
+    "photo": "/trek-images/trek-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Dhaulagiri Circuit Trek",
+    "distance": 6,
+    "price": 120,
+    "Difficulty": "challenging",
+    "district":"Myagdi",
+    "maxGroupSize": 8,
+    "desc": "The Dhaulagiri Circuit Trek is one of the most challenging treks in Nepal because of its sustained elevation, spending 3 days in a row trekking over snow above 5,000m without an easy way down. That said, if you have experience and are up for the challenge, this trek is an unforgettable adventure that takes you into the heart of some the highest mountains in the world. Getting to the trailhead: a 25-minute flight Kathmandu to Pokhara followed by a 2 hour drive; or an 8-hour drive from Kathmandu.",
+    "reviews": [],
+    "itinerary":[
+      "Day 1:",
+"Arrival; Transfer to your hotel in Kathmandu",
+
+"Day 2:",
+"Trek preparation day",
+
+"Day 3:",
+"Drive to Beni from Kathmandu (O/night Altitude 850m/6 hrs. approx.)",
+
+"Day 4:",
+"To Babiyachaur (O/night Altitude 950m/7 hrs approx.)",
+
+"Day 5:",
+"Trek to Boghara (Altitude 2080m/ 5 hours)",
+
+"Day 6:",
+"Trek to Dobang ( 2520m/ 5hrs)",
+
+"Day 7:",
+"Trek to Pine Forest (3110m/ 6hrs)",
+
+"Day 8:",
+"Trek to Italian Base Camp (3,660m).",
+
+"Day 9:",
+"Acclimatization day at Italian Base Camp",
+
+"Day 10:",
+"Trek to Japanese Base Camp (4000m)",
+
+"Day 11:",
+"Trek to Dhaulagiri Base Camp (4740m/ 5 hours)",
+
+"Day 12:",
+"Trek to French Pass (5360m), then - Hidden Valley (4900m) for 6/7 hours.",
+
+"Day 13:",
+"Trek to Yak Kharka(4500m)",
+
+"Day 14:",
+"Trek to Marpha",
+
+"Day 15:",
+"Trek to Jomsom (2730m/5hours)",
+
+"Day 16:",
+"Fly back to Pokhara(820m)",
+
+"Day 17:",
+"Drive back to Kathmandu(1320m)"
+    ],
+    "photo": "/trek-images/trek-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nar Phu Valley Trek",
+    "distance": 5,
+    "price": 105,
+    "Difficulty": "challenging",
+    "district":"Manang",
+    "maxGroupSize": 6,
+    "desc": "The Nar Phu Valley Trek is a real Himalayan wilderness experience that is as unforgettable as it is spectacular. The area  opened to visitors relatively recently, in 2002. Tucked between the more visited Annapurna and Manaslu regions, Nar Phu is a true hidden gem that offers trekkers a rare opportunity to explore unspoiled valleys that feature a mix of raw Himalayan nature and ancient Buddhist culture.  Getting to the trailhead: a day-long drive from Kathmandu via Besisahar to Koto.",
+    "reviews": [],
+
+    "photo": "/trek-images/trek-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": " Everest Base Camp Trek",
+    "distance": 5,
+    "price": 99,
+    "Difficulty": "challenging",
+    "district":"Solukhumbu",
+    "maxGroupSize": 8,
+    "desc": "The Everest Base Camp Trek is among the most famous treks in the world. It certainly deserves its reputation thanks to its history, its great views and the Sherpa culture you experience during the trek. However, since the trek is so popular, its main trails tend to be quite crowded. This is why we list other treks in the Everest region (Three Passes Trek and Gokyo Lakes) higher on our list. Yet despite the crowds, Everest Base Camp continues to be a great trek that deserves to be listed among Nepal’s best treks. Getting to the trailhead: a 30-minute flight Kathmandu to Lukla..",
+    "reviews": [],
+
+    "photo": "/trek-images/trek-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Annapurna Circuit Trek",
+    "distance": 10,
+    "price": 99,
+    "Difficulty": "moderate",
+    "district":"Kaski",
+    "maxGroupSize": 8,
+    "desc": "The Annapurna Circuit trek is another quintessential Himalayan trek that has lost a bit of its character due to the crowds, and, in this particular case, recently constructed roads. The roads that have reduced the “unspoiled” part of this trek to about 12 days of hiking. Despite all that, the trek remains a great adventure with the crossing of the 5,416m Thorong La pass. Consider a side trip to Tilicho Lake, one of the highest lakes in the world at over 16,000 ft. Getting to the trailhead: a 25-minute flight from Kathmandu to Pokhara, followed by a 2-hour drive; or an 8-hour drive from Kathmandu.",
+    "reviews": [],
+
+    "photo": "/trek-images/trek-img10.jpg",
+    "featured": false
+  },
+
+  {
+    "title": "Mardi Himal Trek", 
+    "distance": 4,
+    "price": 99,
+    "Difficulty": "moderate",
+    "district":"Kaski",
+    "maxGroupSize": 10,
+    "desc": "Mardi Himal Trek is a less strenuous trek. It is one of the shorter Treks in Nepal. It is suitable for those who wish to enjoy nature up close at a comfortable pace. Depending on your choice, it offers a multi-day or multi-week hiking experience and is perfect for anyone seeking a more moderate hike.",
+    "reviews": [],
+
+    "photo": "/trek-images/trek-img11.jpg",
+    "featured": false
+  },
+
+  {
+    "title": "Langtang Gosaikunda Trek",
+    "distance": 5,
+    "price": 109,
+    "Difficulty": "challenging",
+    "district":"Rasuwa",
+    "maxGroupSize": 10,
+    "desc": "Langtang Gosaikunda Helambu Trek places among Nepal's most spectacular treks. As for the difficulty level of the tour, it ranges from easy to moderate. The scenic landscape along the Langtang River valley and the mesmerizing view of the Gosaikunda Lake will put your mind at ease and offer a much-needed break from city life.",
+    "reviews": [],
+
+    "photo": "/trek-images/trek-img12.jpg",
+    "featured": false
+  }
+
+]
